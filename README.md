@@ -13,9 +13,10 @@
 This project is a multi-page interactive learning tool that lets you **see machine learning algorithms work in real time**. Add data points to a canvas, tune hyperparameters with live sliders, and watch decision boundaries, regression lines, and loss curves update instantly — all inside your browser.
 
 Built with a **retro-futuristic "Deep Space AI Terminal"** aesthetic — glassmorphism cards, animated particle fields, gradient glow effects, and a deep dark colour palette inspired by Vercel, Linear, and Stripe's dark modes.
-
-<img src="Project Screenshots/heropage.jpeg" alt="Home Page" width="700">
-<img src="Project Screenshots/explore.jpeg" alt="Home Page" width="700">
+<div align="center">
+  <img src="Project Screenshots/heropage.jpeg" alt="Home Page" width="700">
+  <img src="Project Screenshots/explore.jpeg" alt="Home Page" width="700">
+</div>
 ---
 
 ## 🗂️ Project Structure
@@ -42,7 +43,9 @@ project/
 - Navigation links to Regression and Classification visualizers
 
 ### 📈 Regression Visualizer
-<img src="Project Screenshots/explore-regression.jpeg" alt="Regression Page" width="700">
+<div align="center">
+  <img src="Project Screenshots/explore-regression.jpeg" alt="Regression Page" width="700">
+</div>
 **Algorithms covered:**
 | Algorithm | Key Concept | Penalty |
 |---|---|---|
@@ -66,7 +69,9 @@ project/
 - 5-stage algorithm walkthrough with equations per algorithm
 
 ### 🎯 Classification Visualizer
-<img src="Project Screenshots/explore-classification.jpeg" alt="Classification Page" width="700">
+<div align="center">
+  <img src="Project Screenshots/explore-classification.jpeg" alt="Classification Page" width="700">
+</div>
 **Algorithms covered:**
 | Algorithm | Boundary Type | Key Idea |
 |---|---|---|
